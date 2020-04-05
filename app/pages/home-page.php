@@ -19,5 +19,4 @@
 	<?php include('sections/projects-section.php'); ?>
 	<?php include('sections/seminars-section.php'); ?>
 	<?php include('sections/achievements-section.php'); ?>
-	<?php include('sections/skills-section.php'); ?>
 </div>
