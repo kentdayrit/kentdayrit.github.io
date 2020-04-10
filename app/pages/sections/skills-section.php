@@ -1,4 +1,4 @@
-<section class="p-5 ml-5 mr-5 mt-5">
+<section class="container" id="skills-section">
 	<div class="row">
 		<div class="col-md-12 text-center">
 			<h1 style="color: #002060; font-family: Century gothic"><i class="fas fa-cogs display-5"></i>SKILLS</h1>
