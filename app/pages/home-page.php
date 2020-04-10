@@ -1,5 +1,5 @@
 <div class="container-fluid pt-2">
-	<section class="container mt-5" id="home-section">
+	<section class="container mt-5 pt-3" id="home-section">
 		<div class="row p-2"  style="background-color: #b4c7e7; color: #222a35;">
 			<div class="col-md-8 my-auto text-center">
 				<h5>HELLO THERE, I AM</h5>

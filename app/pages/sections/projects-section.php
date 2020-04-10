@@ -1,12 +1,12 @@
 <!-- PROJECTS -->
-<section class="container mt-5 p-5" id="projects-section">
+<section class="container mt-5" id="projects-section">
 	<div class="row">
-		<div class="col-md-12 text-center">
+		<div class="col-md-11 mx-auto text-center">
 			<h1 style="color: #002060; font-family: Century gothic"><i class="fas fa-cogs display-5"></i>PROJECTS</h1>
 			<hr style="border-color: #44546a;">
 		</div>
 	</div>
-	<div class="row">
+	<div class="row p-3">
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3><a href="http://lvcc-online-admission-system.herokuapp.com/login" class="text-dark">LVCC ONLINE ADMISSION SYSTEM</a></h3>
 			<span><small><b><i>SCHOOL MANAGEMENT SYSTEM</i></b></small></span>
