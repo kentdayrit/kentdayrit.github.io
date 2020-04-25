@@ -4,7 +4,7 @@
 			<div class="col-md-8 my-auto text-center">
 				<h5>HELLO THERE, I AM</h5>
 				<h1 class="display-3" style="font-family: Arial black;"><b>KENT DAYRIT</b></h1>
-				<span>SOFTWARE DEVELOPER <b>|</b> WEBSITE DEVELOPER <b>|</b> QA SOFTWARE TESTER</span>
+				<p>SOFTWARE DEVELOPER <b>|</b> WEBSITE DEVELOPER <b>|</b> QA SOFTWARE TESTER</p>
 				<div class="mt-5">
 					<a class="btn btn-dark" href="./assets/Dayrit_Kent_Resume.pdf" target="_blank"> <i class="fa fa-download"></i> DOWNLOAD MY RESUME </a>				
 				</div>
