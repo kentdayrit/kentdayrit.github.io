@@ -15,9 +15,9 @@
                  <a href="#about-section" class="nav-item nav-link">ABOUT</a>
             </div>
             <div class="navbar-nav ml-auto">
-                    <a href="/" class="nav-item nav-link"><i class="fab fa-google"></i></a>
-                    <a href="/" class="nav-item nav-link"><i class="fab fa-gitlab"></i></a>
-                    <a href="/" class="nav-item nav-link"><i class="fas fa-phone"></i></a>
+                    <a href="mailto:kentpdayrit@gmail.com" class="nav-item nav-link"><i class="fab fa-google"></i></a>
+                    <a href="https://gitlab.com/kent.dayrit" target="_blank" class="nav-item nav-link"><i class="fab fa-gitlab"></i></a>
+                    <a href="tel:+639463331740" class="nav-item nav-link"><i class="fas fa-phone"></i></a>
             </div>
         </div>
     </nav>

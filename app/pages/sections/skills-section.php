@@ -16,7 +16,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 							90%
 						</div>
 					</div>
@@ -28,7 +28,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 							90%
 						</div>
 					</div>
@@ -40,7 +40,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
+						<div class="progress-bar bg-warning" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
 							50%
 						</div>
 					</div>
@@ -52,7 +52,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 							90%
 						</div>
 					</div>
@@ -64,7 +64,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 							90%
 						</div>
 					</div>
@@ -76,8 +76,8 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
-							85%
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+							90%
 						</div>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+						<div class="progress-bar bg-primary" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
 							70%
 						</div>
 					</div>
@@ -100,8 +100,8 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
-							85%
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+							95%
 						</div>
 					</div>
 				</div>
@@ -112,8 +112,8 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
-							85%
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+							95%
 						</div>
 					</div>
 				</div>
@@ -124,8 +124,8 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
-							50%
+						<div class="progress-bar bg-primary" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+							75%
 						</div>
 					</div>
 				</div>
@@ -136,7 +136,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
+						<div class="progress-bar bg-warning" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
 							50%
 						</div>
 					</div>
@@ -148,7 +148,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
 							80%
 						</div>
 					</div>
@@ -160,7 +160,7 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
+						<div class="progress-bar bg-warning" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
 							50%
 						</div>
 					</div>
@@ -172,8 +172,8 @@
 				</div>
 				<div class="col-md-9">
 					<div class="progress" style="height:80%;">
-						<div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
-							80%
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+							90%
 						</div>
 					</div>
 				</div>

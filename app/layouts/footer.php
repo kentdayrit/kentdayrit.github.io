@@ -5,9 +5,9 @@
 				<h4>KENT DAYRIT</h4>
 				<span><small><i>SOFTWARE DEVELOPER <b>|</b> WEBSITE DEVELOPER <b>|</b> QA SOFTWARE TESTER</i></small></span>
 				  <div style="font-size: 1.5rem;">
-				  	<a href="/" class="m-1 text-secondary"><i class="fab fa-google"></i></a>
-                    <a href="/" class="m-1 text-secondary"><i class="fab fa-gitlab"></i></a>
-                    <a href="/" class="m-1 text-secondary"><i class="fas fa-phone"></i></a>
+				  	<a href="mailto:kentpdayrit@gmail.com" class="m-1 text-secondary"><i class="fab fa-google"></i></a>
+                    <a href="https://gitlab.com/kent.dayrit" target="_blank" class="m-1 text-secondary"><i class="fab fa-gitlab"></i></a>
+                    <a href="tel:+639463331740" class="m-1 text-secondary"><i class="fas fa-phone"></i></a>
 				  </div>
 					<a class="btn btn-secondary"  href="./assets/Dayrit_Kent_Resume.pdf" target="_blank"> <i class="fa fa-download"></i> DOWNLOAD MY RESUME </a>
 					<hr>
