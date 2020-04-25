@@ -8,7 +8,7 @@
 	</div>
 	<div class="row col-md-12 mx-auto">
 		<div class="col-md-5 mt-5 p-3 mx-auto text-center border rounded-lg" style="background-color: #b4c7e7; color: #222a35;">
-			<i class="fas fa-laptop display-4 mb-3"></i>
+			<i class="fas fa-briefcase display-4 mb-3"></i>
 			<h2 style="font-family: Arial">FREELANCER</h2>
 			<h5>SOFTWARE DEVELOPER <b>|</b> WEBSITE DEVELOPER</h5>
 			<span><i>MAY 2019 - CURRENT</i></span>

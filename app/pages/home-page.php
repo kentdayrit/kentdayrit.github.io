@@ -6,7 +6,7 @@
 				<h1 class="display-3" style="font-family: Arial black;"><b>KENT DAYRIT</b></h1>
 				<span>SOFTWARE DEVELOPER <b>|</b> WEBSITE DEVELOPER <b>|</b> QA SOFTWARE TESTER</span>
 				<div class="mt-5">
-					<button class="btn btn-dark">DOWNLOAD MY RESUME </button>				
+					<a class="btn btn-dark" href="./assets/Dayrit_Kent_Resume.pdf" target="_blank"> <i class="fa fa-download"></i> DOWNLOAD MY RESUME </a>				
 				</div>
 			</div>
 			<div class="col-md-4 p-2">

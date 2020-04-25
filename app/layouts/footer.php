@@ -9,7 +9,7 @@
                     <a href="/" class="m-1 text-secondary"><i class="fab fa-gitlab"></i></a>
                     <a href="/" class="m-1 text-secondary"><i class="fas fa-phone"></i></a>
 				  </div>
-					<button class="btn btn-secondary">DOWNLOAD MY RESUME </button>
+					<a class="btn btn-secondary"  href="./assets/Dayrit_Kent_Resume.pdf" target="_blank"> <i class="fa fa-download"></i> DOWNLOAD MY RESUME </a>
 					<hr>
 			</div>
 		</div>
