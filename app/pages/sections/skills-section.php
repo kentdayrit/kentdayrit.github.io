@@ -1,7 +1,7 @@
 <section class="container mt-5 pb-5" id="skills-section">
 	<div class="row">
 		<div class="col-md-11 mx-auto text-center">
-			<h1 style="color: #002060; font-family: Century gothic"><i class="fas fa-cogs display-5"></i>SKILLS</h1>
+			<h1 style="color: #002060; font-family: Century gothic"><i class="fas fa-wrench display-5"></i>SKILLS</h1>
 			<hr style="border-color: #44546a;">
 		</div>
 	</div>
