@@ -2,7 +2,7 @@
 <section class="container mt-5 pt-4 pb-5" id="experiences-section" style="background-color: #dae3f3;">
 	<div class="row">
 		<div class="col-md-11 mx-auto text-center">
-			<h1 style="color: #002060; font-family: Century gothic"><i class="fas fa-folder-open display-5"></i> EXPERIENCES</h1>
+			<h1 style="color: #002060; font-family: Century gothic"><i class="fas fa-cogs display-5"></i> EXPERIENCES</h1>
 			<hr style="border-color: #44546a;">
 		</div> 	
 	</div>
