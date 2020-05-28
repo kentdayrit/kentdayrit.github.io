@@ -34,7 +34,7 @@
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">BOOBLE</h3>
 			<span><small><b>E-COMMERCE WEBSITE</b></small></span>
-			<span><small><i><a href="http://booble.com.au/" target="_blank" class="text-secondary">Visit the Site</a></i></small></span>
+			<!-- <span><small><i><a href="http://booble.com.au/" target="_blank" class="text-secondary">Visit the Site</a></i></small></span> -->
 			<p class="ml-2 mr-2 mt-2 ">
 				Booble is an e-commerce website intended for a business located in Australia. The system featuring the Login and Register function with an online booking for the services you need and also an online payment. The website has an admin dashboard for sales, transactions, and business statistics monitoring. The system developed using Laravel 5 for backend and js jquery bootstrap for frontend development.
 			</p>
