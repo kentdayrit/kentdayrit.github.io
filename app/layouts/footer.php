@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<h4>KENT DAYRIT</h4>
-				<span><small><i>SOFTWARE DEVELOPER <b>|</b> WEBSITE DEVELOPER <b>|</b> QA SOFTWARE TESTER</i></small></span>
+				<span><small><i>SOFTWARE DEVELOPER <b>|</b> WEBSITE DEVELOPER</small></span>
 				  <div style="font-size: 1.5rem;">
 				  	<a href="mailto:kentpdayrit@gmail.com" class="m-1 text-secondary"><i class="fab fa-google"></i></a>
                     <a href="https://gitlab.com/kent.dayrit" target="_blank" class="m-1 text-secondary"><i class="fab fa-gitlab"></i></a>

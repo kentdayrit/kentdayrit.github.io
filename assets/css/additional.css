@@ -1,0 +1,17 @@
+@font-face { font-family: Nunito; src: url('/assets/fonts/Nunito-VariableFont_wght.ttf'); } 
+
+.custom-text-primary {
+    color: #2A6599 !important;
+}
+
+.custom-font-primary {
+    font-family: 'Nunito';
+}
+
+.custom-bg-none {
+    background: none !important;
+}
+
+.custom-border-primary {
+    border-color: #2A6599 !important;
+}
