@@ -178,6 +178,42 @@
 					</div>
 				</div>
 			</div>
+			<div class="row m-2">
+				<div class="col-md-3">
+					<label class="form-control" for="MARIA DB">Mongo DB</label>
+				</div>
+				<div class="col-md-9">
+					<div class="progress" style="height:80%;">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+							25%
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row m-2">
+				<div class="col-md-3">
+					<label class="form-control" for="MARIA DB">Node JS</label>
+				</div>
+				<div class="col-md-9">
+					<div class="progress" style="height:80%;">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+							30%
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row m-2">
+				<div class="col-md-3">
+					<label class="form-control" for="MARIA DB">Express JS</label>
+				</div>
+				<div class="col-md-9">
+					<div class="progress" style="height:80%;">
+						<div class="progress-bar bg-success" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+							25%
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>

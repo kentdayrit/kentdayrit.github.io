@@ -22,7 +22,7 @@
 		<div class="col-md-5 mt-5 p-3 mx-auto text-center border rounded-lg" style="background-color: #b4c7e7; color: #222a35;">
 			<i class="fas fa-briefcase display-4 mb-3"></i>
 			<h2 style="font-family: Arial">HIVE LABS TECHNOLOGY</h2>
-			<h5>WEB DEVELOPER | MENTOR</h5>
+			<h5>WEB DEVELOPER | MENTOR | PRODUCT LEAD</h5>
 			<span><i>JULY 2020 - CURRENT</i></span>
 		</div> 			
 	</div>
