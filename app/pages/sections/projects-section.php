@@ -10,7 +10,7 @@
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">FLOAD MAP</h3>
 			<span><b>Emergency Management System</b></span>
-			<span><small><i><a href="http://https://fea-app.herokuapp.com/login" target="_blank" class="text-secondary">Admin Panel</a></i></small></span>
+			<span><small><i><a href="https://fea-app.herokuapp.com/login" target="_blank" class="text-secondary">Admin Panel</a></i></small></span>
 			<span><small><i><a href="./assets/fload-map.apk" target="_blank" class="text-secondary">Mobile Apk</a></i></small></span>
 			<p class="ml-2 mr-2 mt-2">
 				This is an Emergency Management System for fload the goal is for the user to give them direction form the evacuation sites available.
@@ -95,7 +95,7 @@
                 This system is developed using Laravel 5 PHP framework for the backend and bootstrap Javascript JQuery and Ajax for the frontend.
 			</p>
 		</div>
-		
+
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">LA VERDAD SUITE</h3>
 			<span><small><b>WEBSITE APPLICATION</b></small></span>
