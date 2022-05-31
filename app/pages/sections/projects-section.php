@@ -8,14 +8,13 @@
 	</div>
 	<div class="row p-3">
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
-			<h3 class="text-dark">LVCC ONLINE ADMISSION SYSTEM</h3>
-			<span><b>SCHOOL MANAGEMENT SYSTEM</b></span>
-			<span><small><i><a href="http://lvcc-online-admission-system.herokuapp.com/login" target="_blank" class="text-secondary">Visit the Site</a></i></small></span>
+			<h3 class="text-dark">FLOAD MAP</h3>
+			<span><b>Emergency Management System</b></span>
+			<span><small><i><a href="http://https://fea-app.herokuapp.com/login" target="_blank" class="text-secondary">Admin Panel</a></i></small></span>
+			<span><small><i><a href="./assets/fload-map.apk" target="_blank" class="text-secondary">Mobile Apk</a></i></small></span>
 			<p class="ml-2 mr-2 mt-2">
-				This system was dedicated to La Verdad Christian College for the fast and effective online admission process for aspiring students. 
-                It minimizes the student's burden going to the school when they are applying for the school scholarship. It collects the credentials and information of the student including the documentation requirements.
-                The system has a build notification by email that helps the student to information regarding their application.
-                The system covers the whole admission process and is ready for enrollment API extension.
+				This is an Emergency Management System for fload the goal is for the user to give them direction form the evacuation sites available.
+				You can access the app with this credentials. [username: superadmin@gmail.com password:password]
 			</p>
 		</div>
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
@@ -28,16 +27,7 @@
                 Also, the system uses AWS for server and file storage.
 			</p>
 		</div>
-		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
-			<h3 class="text-dark">ERPS FOR LUCKY FABS</h3>
-			<span><small><b>ENTERPRISE RESOURCE PLANNING SYSTEM</b></small></span>
-			<!-- <span><small><i><a href="" target="_blank" class="text-secondary">Visit the Site</a></i></small></span> -->
-			<p class="ml-2 mr-2 mt-2 ">
-				Lucky Fubs is an Enterprise Resource Planning Management System Intended for Lucky FubsClothes Manufacturing Company. 
-                This will monitor the Clothes making process, Employment, Inventory, Payroll, etc. 
-                This system was developed using Codeigniter for backend, Nodejs, and JSON for API, and Bootstrap, Javascript, JQuery, and Ajax for frontend
-			</p>
-		</div>
+
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">BOOBLE</h3>
 			<span><small><b>E-COMMERCE WEBSITE</b></small></span>
@@ -49,6 +39,30 @@
                 The system was developed using Laravel 5 for the backend and js jquery bootstrap for frontend development.
 			</p>
 		</div>
+
+		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
+			<h3 class="text-dark">LVCC ONLINE ADMISSION SYSTEM</h3>
+			<span><b>SCHOOL MANAGEMENT SYSTEM</b></span>
+			<span><small><i><a href="http://lvcc-online-admission-system.herokuapp.com/login" target="_blank" class="text-secondary">Visit the Site</a></i></small></span>
+			<p class="ml-2 mr-2 mt-2">
+				This system was dedicated to La Verdad Christian College for the fast and effective online admission process for aspiring students. 
+                It minimizes the student's burden going to the school when they are applying for the school scholarship. It collects the credentials and information of the student including the documentation requirements.
+                The system has a build notification by email that helps the student to information regarding their application.
+                The system covers the whole admission process and is ready for enrollment API extension.
+			</p>
+		</div>
+
+		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
+			<h3 class="text-dark">ERPS FOR LUCKY FABS</h3>
+			<span><small><b>ENTERPRISE RESOURCE PLANNING SYSTEM</b></small></span>
+			<!-- <span><small><i><a href="" target="_blank" class="text-secondary">Visit the Site</a></i></small></span> -->
+			<p class="ml-2 mr-2 mt-2 ">
+				Lucky Fubs is an Enterprise Resource Planning Management System Intended for Lucky FubsClothes Manufacturing Company. 
+                This will monitor the Clothes making process, Employment, Inventory, Payroll, etc. 
+                This system was developed using Codeigniter for backend, Nodejs, and JSON for API, and Bootstrap, Javascript, JQuery, and Ajax for frontend
+			</p>
+		</div>
+
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">INVENTORY SYSTEM POS</h3>
 			<span><small><b>WINDOWS APPLICATION</b></small></span>
@@ -59,6 +73,7 @@
                 This System was developed using javascript Electron Framework including Angular 6 and Bootstrap
 			</p>
 		</div>
+
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">ONLINE INVENTORY SYSTEM</h3>
 			<span><small><b>WEBSITE APPLICATION</b></small></span>
@@ -69,6 +84,7 @@
                 The system was developed using Vanila PHP for backend and CSS, HTML, JS, JQuery, Bootstrap for frontend.
 			</p>
 		</div>
+
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">LVCC LIBRARY SYSTEM POS</h3>
 			<span><small><b>WEB APPLICATION</b></small></span>
@@ -79,6 +95,7 @@
                 This system is developed using Laravel 5 PHP framework for the backend and bootstrap Javascript JQuery and Ajax for the frontend.
 			</p>
 		</div>
+		
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">LA VERDAD SUITE</h3>
 			<span><small><b>WEBSITE APPLICATION</b></small></span>
