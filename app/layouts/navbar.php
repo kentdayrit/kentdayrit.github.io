@@ -1,4 +1,4 @@
-    <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #F5F5F5; position:fixed; width:100%; top:0; z-index:100;">
+    <nav class="navbar navbar-expand-md navbar-dark border" style="background-color: #F5F5F5; position:fixed; width:100%; top:0; z-index:100;">
             <!-- <img src="{{asset('img/lvcclogo.png')}}" height="50" alt="LVCC-LOGO"> -->
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
