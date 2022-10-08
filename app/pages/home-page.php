@@ -7,9 +7,9 @@
 					<h1 class="font-weight-bold custom-text-primary m-0">I am</h1>
 					<h1 class="font-weight-bold custom-text-primary m-0">Creating</h1>
 					<h1 class="font-weight-bold custom-text-primary m-0">Custom Software</h1>
-					<h6 class="custom-text-primary mt-1">Let’s me help you with your project.</h6>
+					<h6 class="custom-text-primary mt-1">Let me help you with your project.</h6>
 					<h6 class="custom-text-primary mt-1">Let’s create a solution with your problem.</h6>
-					<h6 class="custom-text-primary mt-1">Lets make your idea real.</h5>
+					<h6 class="custom-text-primary mt-1">Let's make your idea real.</h5>
 					
 					<a class="btn btn-light custom-text-primary custom-bg-none custom-border-primary mt-3" href="./assets/Dayrit_Kent_Resume.pdf" target="_blank"> <i class="fa fa-download"></i> DOWNLOAD MY RESUME </a>
 				</div>
