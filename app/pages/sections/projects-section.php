@@ -29,7 +29,7 @@
 
 		<div class="col-md-5 text-center mx-auto mt-5 p-3 card card-body" style="background-color: #dae3f3;">
 			<h3 class="text-dark">Payment World</h3>
-			<span><b>Delivery Management System</b></span>
+			<span><b>Online Banking System</b></span>
 			<span><small><i><a href="http://www.paymentworld.eu/" target="_blank" class="text-secondary">Company Website</a></i></small></span>
 			<p class="ml-2 mr-2 mt-2">
 				Payment World is also a company project. It is an Online Banking System like Paypal. 
