@@ -2483,7 +2483,9 @@ h6 {
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -o-transition: all 0.4s ease 0s;
-  transition: all 0.4s ease 0s; }
+  transition: all 0.4s ease 0s; 
+  margin: 0;
+}
   .feature_item img {
     margin-bottom: 35px; }
   .feature_item h4 {
